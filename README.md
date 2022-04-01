@@ -1,5 +1,5 @@
 # E-commerce
 E-commerce / Hiking Clothes
 
-Design only;
+Responsive E-commerce website about Hiking clothes. Three pages, design only
 
